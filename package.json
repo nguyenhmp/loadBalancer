@@ -4,7 +4,6 @@
   "description": "Getting a dip into how to scale an app",
   "author": "",
   "dependencies": {
-    "aws-sdk": "^2.2.39",
     "http-proxy": "^1.13.2"
   }
 }
